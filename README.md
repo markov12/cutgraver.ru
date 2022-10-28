@@ -10,8 +10,8 @@ https://reflex.reacol.ru/domainsettings?&domain=cutgraver.webflow.io
 про .htacess https://klondike-studio.ru/standards/standartnyy-htaccess/
 
 в этой версии использованы статичная версия форм бех всплывающего окна переделываю на динамические
-
+фывфыв
 формы подключаю по инструкции https://snipp.ru/jquery/modal-dark-background
 
 самы формы с сайта https://app.qform24.com/ru/site-settings/confirm/?id=1607962799
-test commit 
+фывфв фывафва
